@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# C/C++ Binarios y Objetos
+*.o
+*.out
+p0
+p1
+p2
+*.exe
+
+# IDEs
+.vscode/
+.idea/
+
+# Herramientas de depuración
+vgcore.*
+valgrind-out.txt
